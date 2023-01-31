@@ -9,3 +9,4 @@ this is master branch line
 this is dev branch line
 >>>>>>> dev
 this is new branch line
+this is latest branch line
