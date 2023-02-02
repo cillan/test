@@ -10,3 +10,4 @@ this is dev branch line
 >>>>>>> dev
 this is new branch line
 this is latest branch line
+this is smart branch line
